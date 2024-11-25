@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: c449631f9a124724f9b7c0f725f64b18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9123774637731471767
+    second: Enemigo_explosivo_0
+  - first:
+      213: 408802938958790606
+    second: Enemigo_explosivo_1
+  - first:
+      213: 3683211470116346822
+    second: Enemigo_explosivo_2
+  - first:
+      213: -812334439714926340
+    second: Enemigo_explosivo_3
+  - first:
+      213: 8059727581102008404
+    second: Enemigo_explosivo_4
+  - first:
+      213: -5292569274334221542
+    second: Enemigo_explosivo_5
+  - first:
+      213: 8706986621873422156
+    second: Enemigo_explosivo_6
+  - first:
+      213: -6958070919053951533
+    second: Enemigo_explosivo_7
+  - first:
+      213: 7559823724916735335
+    second: Enemigo_explosivo_8
+  - first:
+      213: -3178782538165124695
+    second: Enemigo_explosivo_9
+  - first:
+      213: 2436851665883711971
+    second: Enemigo_explosivo_10
+  - first:
+      213: -5324839534027801659
+    second: Enemigo_explosivo_11
+  - first:
+      213: 8128995777421252852
+    second: Enemigo_explosivo_12
+  - first:
+      213: 1370368515354000000
+    second: Enemigo_explosivo_13
+  - first:
+      213: -1064986135528002956
+    second: Enemigo_explosivo_14
+  - first:
+      213: 7125951788232341586
+    second: Enemigo_explosivo_15
+  - first:
+      213: 6896887957683859783
+    second: Enemigo_explosivo_16
+  - first:
+      213: 4382447513723804098
+    second: Enemigo_explosivo_17
+  - first:
+      213: -7794625689972082062
+    second: Enemigo_explosivo_18
+  - first:
+      213: -2445197480035658978
+    second: Enemigo_explosivo_19
+  - first:
+      213: 3061730235291781034
+    second: Enemigo_explosivo_20
+  - first:
+      213: 3633443094464833445
+    second: Enemigo_explosivo_21
+  - first:
+      213: 3455473707035404249
+    second: Enemigo_explosivo_22
+  - first:
+      213: -8180814179652455789
+    second: Enemigo_explosivo_23
+  - first:
+      213: 5931169623611789223
+    second: Enemigo_explosivo_24
+  - first:
+      213: -1096314466088764983
+    second: Enemigo_explosivo_25
+  - first:
+      213: -2104330410086468987
+    second: Enemigo_explosivo_26
+  - first:
+      213: -3064958208732753246
+    second: Enemigo_explosivo_27
+  - first:
+      213: -6740169617422203942
+    second: Enemigo_explosivo_28
+  - first:
+      213: -6010481232182952259
+    second: Enemigo_explosivo_29
+  - first:
+      213: -1766954945564618563
+    second: Enemigo_explosivo_30
+  - first:
+      213: 2914227578974966324
+    second: Enemigo_explosivo_31
+  - first:
+      213: 2972297678063201875
+    second: Enemigo_explosivo_32
+  - first:
+      213: 675564256233798462
+    second: Enemigo_explosivo_33
+  - first:
+      213: 5607572424263935800
+    second: Enemigo_explosivo_34
+  - first:
+      213: 5613783950204030102
+    second: Enemigo_explosivo_35
+  - first:
+      213: -1198762555865901151
+    second: Enemigo_explosivo_36
+  - first:
+      213: -5658525725533053751
+    second: Enemigo_explosivo_37
+  - first:
+      213: -8998284296089166427
+    second: Enemigo_explosivo_38
+  - first:
+      213: 8783707831241055343
+    second: Enemigo_explosivo_39
+  - first:
+      213: -1675008975722087331
+    second: Enemigo_explosivo_40
+  - first:
+      213: -8675763977824812872
+    second: Enemigo_explosivo_41
+  - first:
+      213: -999938340726062253
+    second: Enemigo_explosivo_42
+  - first:
+      213: 7704573441588195374
+    second: Enemigo_explosivo_43
+  - first:
+      213: 3152620635062406068
+    second: Enemigo_explosivo_44
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo_explosivo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3771
+        width: 567
+        height: 875
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f4d3757fd03b843ad1b57d6765a77c
+      internalID: 1549309842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_1
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 3764
+        width: 510
+        height: 882
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218e115df9318c47b0b15379dbbb5ea
+      internalID: 734548331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_2
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 3736
+        width: 510
+        height: 920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58c6840053c9034b8fddc5a7d05baa0
+      internalID: 402190662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_3
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3682
+        width: 510
+        height: 964
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af45b140cb21944b4ceb1553395ae1
+      internalID: 144899925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_5
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 3713
+        width: 510
+        height: 902
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35872139d0086a74f8f3d7964bc8b347
+      internalID: -1056845843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_6
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 3717
+        width: 510
+        height: 910
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d745b5249b45a184db3391c4af5f4864
+      internalID: -612212797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_7
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 3713
+        width: 513
+        height: 901
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a68bbc4d24934c900b7fb9325778f
+      internalID: 1015955904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_8
+      rect:
+        serializedVersion: 2
+        x: 5203
+        y: 3673
+        width: 513
+        height: 983
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dd0595cbf627741862986778f44b94
+      internalID: -223256911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_9
+      rect:
+        serializedVersion: 2
+        x: 5948
+        y: 3620
+        width: 513
+        height: 959
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8018ade6f451845a82d933526f3f51
+      internalID: -144743673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_10
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 3681
+        width: 510
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a4512e9eca9274b91a2e036b1c585e
+      internalID: -119077481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_11
+      rect:
+        serializedVersion: 2
+        x: 7524
+        y: 3685
+        width: 508
+        height: 898
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e994faf1885d42b47206a89c54378
+      internalID: 2034792868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2410
+        width: 510
+        height: 879
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e57db6a98ec449b5fa7b93feb9f28
+      internalID: -444646048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_14
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2387
+        width: 509
+        height: 898
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27281acad15aa2d4c803a607bdf6e8e5
+      internalID: 179784160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_15
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2331
+        width: 510
+        height: 962
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4cc5120e04b34d8cc00fca591906f
+      internalID: -1798535179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_17
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 2363
+        width: 510
+        height: 899
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdb0d79a574e2e43bedde3f0711e591
+      internalID: 1938624255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_18
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 2403
+        width: 510
+        height: 878
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515f032c39b70b442b50203b5eb100f9
+      internalID: -1648361619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_19
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 2363
+        width: 509
+        height: 899
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede8a58ee7c76844ebe8f4ebe2cf0f2f
+      internalID: -1919023104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_20
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 2333
+        width: 510
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b442ff4678b09c4fbddcc3790a4e193
+      internalID: 138967331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_22
+      rect:
+        serializedVersion: 2
+        x: 5230
+        y: 2387
+        width: 510
+        height: 898
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2b9fccbe16f0418f700a954ecd370
+      internalID: 414064709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_23
+      rect:
+        serializedVersion: 2
+        x: 5913
+        y: 2410
+        width: 513
+        height: 879
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebefa9f787f69454dabd7f9e13655c4b
+      internalID: 35255902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 629
+        height: 890
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f3288e09bb16149a75dcbb2c0e6b61
+      internalID: 582694577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_25
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1222
+        width: 636
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b240358c982a9943b229c5e8ec6ed66
+      internalID: 740484331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_26
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1198
+        width: 635
+        height: 883
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff95bd72c8e644691d34e21e9e6f38
+      internalID: -508150882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_27
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 1218
+        width: 635
+        height: 863
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d69f45327f06844a2478c7c9569c47
+      internalID: 1875053887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_28
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 1218
+        width: 635
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27b2532993a5943a3833ee23440c2a
+      internalID: -2111340240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_29
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1215
+        width: 636
+        height: 889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6bf2d2c779ee8448672e7a2b67ec31
+      internalID: -1737988504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_30
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 1249
+        width: 635
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e1a3b627f6194ea560eb69d33a416
+      internalID: -352105060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_31
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 1214
+        width: 635
+        height: 882
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0f50d83d615541a75ff281b29304e
+      internalID: -1702340162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_32
+      rect:
+        serializedVersion: 2
+        x: 5885
+        y: 1234
+        width: 635
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea1c0649c53c249845803db027973d
+      internalID: -126900145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_33
+      rect:
+        serializedVersion: 2
+        x: 6603
+        y: 1230
+        width: 681
+        height: 890
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839b5ceb0c917d48abaa7be221929d7
+      internalID: 867332161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 26
+        width: 635
+        height: 890
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa274cc7e9f0140b4072ec5869394d
+      internalID: -524489735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 29
+        width: 635
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3108f94695b7e1f4fa7aade4ce0a5c45
+      internalID: 497290441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_36
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 0
+        width: 637
+        height: 892
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8148c78474bf45a82e0b236fc250c
+      internalID: -1377691045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_37
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 45
+        width: 635
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e5a36e61d72f3428c6f072d429ee92
+      internalID: -571619962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_38
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 14
+        width: 635
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d555e61418a94f49893d6497212432c
+      internalID: -414289944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_39
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 14
+        width: 636
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52d1813fd86034b82ca09ee9d6ed51
+      internalID: 174959508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_40
+      rect:
+        serializedVersion: 2
+        x: 4473
+        y: 14
+        width: 635
+        height: 862
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f48aec6c0028941ae4ac2dd3d59e62
+      internalID: -1311091531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_41
+      rect:
+        serializedVersion: 2
+        x: 5191
+        y: 0
+        width: 637
+        height: 877
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28139f8a1bd114a86581950c15295b
+      internalID: 1389491847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_42
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 18
+        width: 635
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f1c0dcf567284ea08599a84e11e73
+      internalID: -1129965122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo_explosivo_43
+      rect:
+        serializedVersion: 2
+        x: 6728
+        y: 34
+        width: 635
+        height: 890
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4811e2d77e10485479f63b9f23efbb24
+      internalID: -974548334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 365fbca890a276247bc4dc0afddd2ef2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemigo_explosivo_0: 1549309842
+      Enemigo_explosivo_1: 734548331
+      Enemigo_explosivo_10: -119077481
+      Enemigo_explosivo_11: 2034792868
+      Enemigo_explosivo_12: 912467496
+      Enemigo_explosivo_13: -444646048
+      Enemigo_explosivo_14: 179784160
+      Enemigo_explosivo_15: -1798535179
+      Enemigo_explosivo_16: 1326028898
+      Enemigo_explosivo_17: 1938624255
+      Enemigo_explosivo_18: -1648361619
+      Enemigo_explosivo_19: -1919023104
+      Enemigo_explosivo_2: 402190662
+      Enemigo_explosivo_20: 138967331
+      Enemigo_explosivo_21: -1379289828
+      Enemigo_explosivo_22: 414064709
+      Enemigo_explosivo_23: 35255902
+      Enemigo_explosivo_24: 582694577
+      Enemigo_explosivo_25: 740484331
+      Enemigo_explosivo_26: -508150882
+      Enemigo_explosivo_27: 1875053887
+      Enemigo_explosivo_28: -2111340240
+      Enemigo_explosivo_29: -1737988504
+      Enemigo_explosivo_3: 144899925
+      Enemigo_explosivo_30: -352105060
+      Enemigo_explosivo_31: -1702340162
+      Enemigo_explosivo_32: -126900145
+      Enemigo_explosivo_33: 867332161
+      Enemigo_explosivo_34: -524489735
+      Enemigo_explosivo_35: 497290441
+      Enemigo_explosivo_36: -1377691045
+      Enemigo_explosivo_37: -571619962
+      Enemigo_explosivo_38: -414289944
+      Enemigo_explosivo_39: 174959508
+      Enemigo_explosivo_4: 55782757
+      Enemigo_explosivo_40: -1311091531
+      Enemigo_explosivo_41: 1389491847
+      Enemigo_explosivo_42: -1129965122
+      Enemigo_explosivo_43: -974548334
+      Enemigo_explosivo_5: -1056845843
+      Enemigo_explosivo_6: -612212797
+      Enemigo_explosivo_7: 1015955904
+      Enemigo_explosivo_8: -223256911
+      Enemigo_explosivo_9: -144743673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

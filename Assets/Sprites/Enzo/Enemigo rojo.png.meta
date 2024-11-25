@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: d8381bbfb46847542bba706213130a99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo rojo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1976
+        width: 283
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1ec8b917919e49af2e3dd3b4a3032
+      internalID: -1384061334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1972
+        width: 251
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea30895eb81ca643af17102613ea2eb
+      internalID: -1823147190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_2
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1958
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a2f87f2e96a8428b0e684dd610d99
+      internalID: 820796790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_3
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1940
+        width: 252
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1575c6312bf6d84d9b365d36c653671
+      internalID: 713765352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_5
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1946
+        width: 253
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612244694ab20194baf20061e29ba5c6
+      internalID: 77938091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_6
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1948
+        width: 251
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756cff4ba820f164d829780fe7dc6d9d
+      internalID: -1562311650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_7
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1946
+        width: 250
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b46bab78430f4899750a001359995
+      internalID: 1936951794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_8
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1927
+        width: 258
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a32866fabe5054aaffc56cdac35f3c
+      internalID: 9097066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_9
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 1909
+        width: 250
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40430eb22c30f42a5666ead9d4ee02
+      internalID: 1789202780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_10
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1931
+        width: 252
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28117e9c90f16234293f716dcf618eb1
+      internalID: 1145081181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_11
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 1934
+        width: 250
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4e5f2c272f0540a505e168cb67891
+      internalID: -228522627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1297
+        width: 252
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a898699d65d6438735b8341703030
+      internalID: -1210068293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1283
+        width: 253
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afff3b882e751e42ba36c52d4f69fc5
+      internalID: 333218219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1264
+        width: 250
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86053d7ce20acfc46a28d20fc02342e0
+      internalID: 1065895396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_17
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1271
+        width: 250
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c505bafcf48e7254297d02163a408af3
+      internalID: -1584310094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1273
+        width: 250
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b5c4aa989be004b883ce00482afb8a
+      internalID: -197069553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_19
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1271
+        width: 251
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca48d5bce6f2d344b9ca85974fef6d3
+      internalID: -2138470715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_20
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1252
+        width: 251
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c1a0b7f958c9247a65be4b94438b54
+      internalID: -1886424837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_21
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 1232
+        width: 252
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d7a75274f2e234581e167e7c2401b1
+      internalID: -2023020668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_22
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1255
+        width: 253
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ef61ebdefc82c49a10f6d0a4c72252
+      internalID: 459551963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_23
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 1257
+        width: 251
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0441af2dc37b86d43b89eeb74955be15
+      internalID: -1565595929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 314
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ba8cd71fa94f4c90eecbade81f211
+      internalID: -694069750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 700
+        width: 336
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d920aa6502d38468a5c7d3150d8a64
+      internalID: -687210501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_27
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 690
+        width: 341
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf2660b3126b3439b98cdad0b64394
+      internalID: 2088074758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_28
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 694
+        width: 337
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe753e5c7d31fc43a88043ef4fe055e
+      internalID: 1060729788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_29
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 702
+        width: 317
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe85836843dd44499be743d989ae7e9
+      internalID: 259592832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_30
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 700
+        width: 315
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e557824655b744f4b8d02e4137a64ac6
+      internalID: -1034982593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_31
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 702
+        width: 333
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d82690beadd84f91d558c626f1417
+      internalID: -861497282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_32
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 690
+        width: 333
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411514c1d6498b942bbe1298a0b149ca
+      internalID: -655460431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_33
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 694
+        width: 329
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6770ec213b59d4daebb9ec534022e0
+      internalID: -877081112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_34
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 686
+        width: 606
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446379c78e2af2a43bddc953d6bc740d
+      internalID: 303955262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 303
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa847b7a7e00e7429b57ad1cd1d51e8
+      internalID: -818679047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_36
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 325
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb16a193eab0b44f8b4cd283ce0077e
+      internalID: 1997156615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_37
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1
+        width: 333
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5607e2a2fda5d514d9bcc54741bed4bf
+      internalID: -749974485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_38
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 13
+        width: 329
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed9ad025d37065448630bafef66bedc
+      internalID: -2050649397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_39
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 9
+        width: 307
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14114318d7d9604ab239cafaaf9737d
+      internalID: 238179271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_40
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 9
+        width: 307
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa63a0e572e4544bad5cfdc81af22fa
+      internalID: 1370369006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_41
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1
+        width: 328
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35742c4e30d4836459091c7ec3934ca3
+      internalID: 1341295169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_42
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 0
+        width: 335
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba23f182e108046a215f41356a4f82
+      internalID: -264722852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_43
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 9
+        width: 329
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743e00b9974a68b48890cb558dd54322
+      internalID: 1697616914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo rojo_44
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 19
+        width: 306
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff28c1afff0a3f41bdb982d1363127b
+      internalID: -1927199136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemigo rojo_0: -1384061334
+      Enemigo rojo_1: -1823147190
+      Enemigo rojo_10: 1145081181
+      Enemigo rojo_11: -228522627
+      Enemigo rojo_12: -443679350
+      Enemigo rojo_13: -1210068293
+      Enemigo rojo_14: 333218219
+      Enemigo rojo_15: 1065895396
+      Enemigo rojo_16: 1805539944
+      Enemigo rojo_17: -1584310094
+      Enemigo rojo_18: -197069553
+      Enemigo rojo_19: -2138470715
+      Enemigo rojo_2: 820796790
+      Enemigo rojo_20: -1886424837
+      Enemigo rojo_21: -2023020668
+      Enemigo rojo_22: 459551963
+      Enemigo rojo_23: -1565595929
+      Enemigo rojo_24: -1523122949
+      Enemigo rojo_25: -694069750
+      Enemigo rojo_26: -687210501
+      Enemigo rojo_27: 2088074758
+      Enemigo rojo_28: 1060729788
+      Enemigo rojo_29: 259592832
+      Enemigo rojo_3: 713765352
+      Enemigo rojo_30: -1034982593
+      Enemigo rojo_31: -861497282
+      Enemigo rojo_32: -655460431
+      Enemigo rojo_33: -877081112
+      Enemigo rojo_34: 303955262
+      Enemigo rojo_35: -818679047
+      Enemigo rojo_36: 1997156615
+      Enemigo rojo_37: -749974485
+      Enemigo rojo_38: -2050649397
+      Enemigo rojo_39: 238179271
+      Enemigo rojo_4: 592493516
+      Enemigo rojo_40: 1370369006
+      Enemigo rojo_41: 1341295169
+      Enemigo rojo_42: -264722852
+      Enemigo rojo_43: 1697616914
+      Enemigo rojo_44: -1927199136
+      Enemigo rojo_5: 77938091
+      Enemigo rojo_6: -1562311650
+      Enemigo rojo_7: 1936951794
+      Enemigo rojo_8: 9097066
+      Enemigo rojo_9: 1789202780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

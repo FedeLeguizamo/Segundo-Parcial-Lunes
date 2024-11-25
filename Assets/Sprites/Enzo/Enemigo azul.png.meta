@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: aa6230c0b5209ff4bb6443a47688eb89
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo azul_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1976
+        width: 283
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece05fb34518e44fbf6fca707633ccd
+      internalID: -67687244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1970
+        width: 251
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71309033fca60df4ab2c3b61f2189ceb
+      internalID: 2066428921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_2
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1958
+        width: 250
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623da113efb9bce4d9e56408c6fd16c9
+      internalID: 1925780485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_3
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1935
+        width: 252
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cecc076ecbfca14baded122803f1cb7
+      internalID: 1179636721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_5
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1946
+        width: 252
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6268ccc192bc4181b7750973d19be
+      internalID: 2130354965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_6
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1946
+        width: 250
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5309e217d516e4849a4b8ead646efcba
+      internalID: 2141215255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_7
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1946
+        width: 253
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460da974e853f047b5cf494171a75af
+      internalID: -912821132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_8
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1925
+        width: 258
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b08cb06fc8254198fd0f03cf25acf
+      internalID: 1877871303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_9
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 1906
+        width: 250
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9af80231e722744b66c0f8c3f1c455
+      internalID: 1197777915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_10
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 1931
+        width: 252
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958fecb5463089249b6c098ce2f6be9b
+      internalID: -2047056150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_11
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1933
+        width: 248
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444f15e6f5b5c845a2ef1fd39325741
+      internalID: 679280926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1295
+        width: 252
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038dfa2b235c47b4da7c2fc0ff9a3d7f
+      internalID: -2046794508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_14
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1281
+        width: 253
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50835d0ead5da9047bea3c5bde999dcb
+      internalID: 707722149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_15
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1261
+        width: 254
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989301d77e4b48c4698ef5715d89fa27
+      internalID: 1643484441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_17
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1271
+        width: 251
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85cbd46b7d10e4e86cc16dcf958523
+      internalID: -1248117216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_18
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1273
+        width: 251
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c92cd9b654464da8de8261316017f
+      internalID: -2048113786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_19
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1271
+        width: 250
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe50a09e457d7a4486328bf6a874d86
+      internalID: -1074473313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_20
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1251
+        width: 250
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc6070050485d438acff7a56b624bb
+      internalID: 2090018054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_21
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1227
+        width: 251
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542b192ed3d55240b3e89b2c6499706
+      internalID: 330525980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_22
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 1255
+        width: 253
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14030177c05cc084eaa8e81449e273ba
+      internalID: -973581165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_23
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 1257
+        width: 251
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4565aa0a1e5dc146b97a605e99b0798
+      internalID: -125659556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 306
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621eecb261ffb6540ad933721cbb7acc
+      internalID: -530199527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 700
+        width: 328
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db418fd0868a8b47a7ddbb31311ece8
+      internalID: -693657011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 690
+        width: 334
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06564de5059b24484c4959db2bd40f
+      internalID: -1291985065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 692
+        width: 331
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bb05490b20c3b4a91079ac07723b9a
+      internalID: -2139823876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_29
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 700
+        width: 307
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f34279bb2346f4bbcd43d5c9bd3eff
+      internalID: -380578830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_30
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 700
+        width: 307
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf22fe3902de242897275f2b8601b8
+      internalID: 1622995847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_31
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 702
+        width: 331
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc29c938149354d8553635390acefa
+      internalID: -1362086239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_32
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 690
+        width: 333
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba65145d540ec41aff1398b57eb262
+      internalID: -413984926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_33
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 694
+        width: 328
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ec928cd6dfcdd4fb1fa5f33d4fa4ac
+      internalID: 1839611219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_34
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 686
+        width: 604
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726656c3ab78775468a693a5820cd8bc
+      internalID: -1274330905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 307
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eac80044cd29d14bbabbb38487003cc
+      internalID: 1380102439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_36
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 329
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31e93e26767f1458ea5d01ae6d2ca8
+      internalID: -468281719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_37
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1
+        width: 332
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c608d03cb254cf7478d512a07a24ba43
+      internalID: -2042420517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_38
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 13
+        width: 330
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7ccb9a50ebda4db6f9a397334a1af
+      internalID: 1570099855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_39
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 7
+        width: 307
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1a69cbc6ab964f9a970ec9d8e4387
+      internalID: 364127376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_40
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 9
+        width: 308
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f52fbefe3b08744a0855c7eb7f9738
+      internalID: -1390236788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_41
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 1
+        width: 331
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4286fd43547f44d968de4d4e0e4203
+      internalID: -951919216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_42
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 0
+        width: 333
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f74867a3abaa14b82dac04c624dcc5
+      internalID: -1353265430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_43
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 9
+        width: 329
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c71e56f43f524a8303d9c03fe5a16
+      internalID: 1406055507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo azul_44
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 19
+        width: 308
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea184e3776ad2840abef8b649fc40d1
+      internalID: 328007706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemigo azul_0: -67687244
+      Enemigo azul_1: 2066428921
+      Enemigo azul_10: -2047056150
+      Enemigo azul_11: 679280926
+      Enemigo azul_12: -643815109
+      Enemigo azul_13: -2046794508
+      Enemigo azul_14: 707722149
+      Enemigo azul_15: 1643484441
+      Enemigo azul_16: 1720729283
+      Enemigo azul_17: -1248117216
+      Enemigo azul_18: -2048113786
+      Enemigo azul_19: -1074473313
+      Enemigo azul_2: 1925780485
+      Enemigo azul_20: 2090018054
+      Enemigo azul_21: 330525980
+      Enemigo azul_22: -973581165
+      Enemigo azul_23: -125659556
+      Enemigo azul_24: -1678135511
+      Enemigo azul_25: -530199527
+      Enemigo azul_26: -693657011
+      Enemigo azul_27: -1291985065
+      Enemigo azul_28: -2139823876
+      Enemigo azul_29: -380578830
+      Enemigo azul_3: 1179636721
+      Enemigo azul_30: 1622995847
+      Enemigo azul_31: -1362086239
+      Enemigo azul_32: -413984926
+      Enemigo azul_33: 1839611219
+      Enemigo azul_34: -1274330905
+      Enemigo azul_35: 1380102439
+      Enemigo azul_36: -468281719
+      Enemigo azul_37: -2042420517
+      Enemigo azul_38: 1570099855
+      Enemigo azul_39: 364127376
+      Enemigo azul_4: -399118376
+      Enemigo azul_40: -1390236788
+      Enemigo azul_41: -951919216
+      Enemigo azul_42: -1353265430
+      Enemigo azul_43: 1406055507
+      Enemigo azul_44: 328007706
+      Enemigo azul_5: 2130354965
+      Enemigo azul_6: 2141215255
+      Enemigo azul_7: -912821132
+      Enemigo azul_8: 1877871303
+      Enemigo azul_9: 1197777915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

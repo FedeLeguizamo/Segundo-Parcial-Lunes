@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 94890e0c259665c4480e2c2b0d243093
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8175279652356731411
+    second: Enemigo violeta_0
+  - first:
+      213: 9188965698491288335
+    second: Enemigo violeta_1
+  - first:
+      213: -8001976075631468373
+    second: Enemigo violeta_2
+  - first:
+      213: -7331597573862307774
+    second: Enemigo violeta_3
+  - first:
+      213: 7868575845323565329
+    second: Enemigo violeta_4
+  - first:
+      213: -3480499589106722481
+    second: Enemigo violeta_5
+  - first:
+      213: 5982896024451470351
+    second: Enemigo violeta_6
+  - first:
+      213: -3896997081824303233
+    second: Enemigo violeta_7
+  - first:
+      213: -4985130496669999339
+    second: Enemigo violeta_8
+  - first:
+      213: -7607965269648796198
+    second: Enemigo violeta_9
+  - first:
+      213: 3609341025512859072
+    second: Enemigo violeta_10
+  - first:
+      213: -5021296090857264240
+    second: Enemigo violeta_11
+  - first:
+      213: -7207686977009512242
+    second: Enemigo violeta_12
+  - first:
+      213: 132967996305771488
+    second: Enemigo violeta_13
+  - first:
+      213: 7641348088756836543
+    second: Enemigo violeta_14
+  - first:
+      213: 1709519162658034942
+    second: Enemigo violeta_15
+  - first:
+      213: -4744228983553610241
+    second: Enemigo violeta_16
+  - first:
+      213: 8417362653581761120
+    second: Enemigo violeta_17
+  - first:
+      213: 1467178686579614653
+    second: Enemigo violeta_18
+  - first:
+      213: -8003144027284007657
+    second: Enemigo violeta_19
+  - first:
+      213: -4682149689524386129
+    second: Enemigo violeta_20
+  - first:
+      213: 2406725466338237493
+    second: Enemigo violeta_21
+  - first:
+      213: 8776195722258482890
+    second: Enemigo violeta_22
+  - first:
+      213: 3442934057532720320
+    second: Enemigo violeta_23
+  - first:
+      213: 5314508398126802637
+    second: Enemigo violeta_24
+  - first:
+      213: 6259925932424111510
+    second: Enemigo violeta_25
+  - first:
+      213: 2592715564383808100
+    second: Enemigo violeta_26
+  - first:
+      213: 7295396766994070829
+    second: Enemigo violeta_27
+  - first:
+      213: 6387339807151050245
+    second: Enemigo violeta_28
+  - first:
+      213: 1898319391739528495
+    second: Enemigo violeta_29
+  - first:
+      213: 4481385325436074386
+    second: Enemigo violeta_30
+  - first:
+      213: -2128596413484201169
+    second: Enemigo violeta_31
+  - first:
+      213: 3275145224697104276
+    second: Enemigo violeta_32
+  - first:
+      213: 8219632158173814145
+    second: Enemigo violeta_33
+  - first:
+      213: -7003805881050388395
+    second: Enemigo violeta_34
+  - first:
+      213: 8784379848959201321
+    second: Enemigo violeta_35
+  - first:
+      213: 3216611931177351425
+    second: Enemigo violeta_36
+  - first:
+      213: -7306465953901701098
+    second: Enemigo violeta_37
+  - first:
+      213: 8978435819902253698
+    second: Enemigo violeta_38
+  - first:
+      213: 1237251845721797370
+    second: Enemigo violeta_39
+  - first:
+      213: -2111816981985872264
+    second: Enemigo violeta_40
+  - first:
+      213: 8130820804457021287
+    second: Enemigo violeta_41
+  - first:
+      213: 5073832941621152862
+    second: Enemigo violeta_42
+  - first:
+      213: -3731814663963721687
+    second: Enemigo violeta_43
+  - first:
+      213: 6963911680535802
+    second: Enemigo violeta_44
+  - first:
+      213: -1871299045908341937
+    second: Enemigo violeta_45
+  - first:
+      213: 7696386074558161459
+    second: Enemigo violeta_46
+  - first:
+      213: 1809207126098339231
+    second: Enemigo violeta_47
+  - first:
+      213: 2114602720554987792
+    second: Enemigo violeta_48
+  - first:
+      213: -8369326681070722732
+    second: Enemigo violeta_49
+  - first:
+      213: 2387955149857491383
+    second: Enemigo violeta_50
+  - first:
+      213: 4397449974515114554
+    second: Enemigo violeta_51
+  - first:
+      213: -199031394335719670
+    second: Enemigo violeta_52
+  - first:
+      213: -1373496448214267398
+    second: Enemigo violeta_53
+  - first:
+      213: -8286559756002009291
+    second: Enemigo violeta_54
+  - first:
+      213: 4140244251655497231
+    second: Enemigo violeta_55
+  - first:
+      213: 6234712656995842133
+    second: Enemigo violeta_56
+  - first:
+      213: -4275205736888736825
+    second: Enemigo violeta_57
+  - first:
+      213: -1757200694950657032
+    second: Enemigo violeta_58
+  - first:
+      213: 4447592982616303708
+    second: Enemigo violeta_59
+  - first:
+      213: -6763127668644800043
+    second: Enemigo violeta_60
+  - first:
+      213: 5889519695507892087
+    second: Enemigo violeta_61
+  - first:
+      213: 2136186787758217940
+    second: Enemigo violeta_62
+  - first:
+      213: -5970307961390410532
+    second: Enemigo violeta_63
+  - first:
+      213: -7083106722422975375
+    second: Enemigo violeta_64
+  - first:
+      213: -7025687260620436532
+    second: Enemigo violeta_65
+  - first:
+      213: -959745832158934671
+    second: Enemigo violeta_66
+  - first:
+      213: -6486885550697482313
+    second: Enemigo violeta_67
+  - first:
+      213: 3214592381037215904
+    second: Enemigo violeta_68
+  - first:
+      213: 480351776105939178
+    second: Enemigo violeta_69
+  - first:
+      213: -7411204161663580994
+    second: Enemigo violeta_70
+  - first:
+      213: -7055078228828246415
+    second: Enemigo violeta_71
+  - first:
+      213: -5414970484112379456
+    second: Enemigo violeta_72
+  - first:
+      213: -5318322086187995171
+    second: Enemigo violeta_73
+  - first:
+      213: -2310421898102951550
+    second: Enemigo violeta_74
+  - first:
+      213: 6914966836608092071
+    second: Enemigo violeta_75
+  - first:
+      213: 187409900885104267
+    second: Enemigo violeta_76
+  - first:
+      213: -8480997726516019725
+    second: Enemigo violeta_77
+  - first:
+      213: -3371281080419488794
+    second: Enemigo violeta_78
+  - first:
+      213: 4842114913616145911
+    second: Enemigo violeta_79
+  - first:
+      213: -7357666548441341445
+    second: Enemigo violeta_80
+  - first:
+      213: -9006410515631877574
+    second: Enemigo violeta_81
+  - first:
+      213: -2693010540148791283
+    second: Enemigo violeta_82
+  - first:
+      213: 1720519763007440794
+    second: Enemigo violeta_83
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo violeta_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1984
+        width: 238
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c312883f2715e6a44ad1b1fc8290a4e5
+      internalID: -2142890254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1953
+        width: 247
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72c1fdf094baf42be0e7e2dd0c8753
+      internalID: -203783196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1952
+        width: 239
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2834fc72cefc8074a8b52eda4f830782
+      internalID: -616708848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_4
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1953
+        width: 244
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59756360fc133344a02c061cf82555c
+      internalID: 1531247143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_5
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1963
+        width: 266
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808991fe61cc6f946a9c79bde1dcc383
+      internalID: -2084081954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1972
+        width: 246
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d638f9ff7ed64a8d807e1da125ac3
+      internalID: -382048632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_8
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1976
+        width: 260
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455edd17a78d8af49a29a2dd45da0b24
+      internalID: -568317033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_10
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 1984
+        width: 242
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c32eb21d7e9484fa8f0e4e9209ddac
+      internalID: 109345872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_12
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1973
+        width: 237
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02eb9744727c4841ae37a89e7b2bd04
+      internalID: -146485562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_14
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 2039
+        width: 255
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445c800ee4efe046862f0187cf0dc7a
+      internalID: 66509060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1321
+        width: 233
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d183742cb7471945858c8810d33c5ae
+      internalID: 685837744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1295
+        width: 230
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c354e5f4662ccd04182b17f072909ad4
+      internalID: 1209078560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_26
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1275
+        width: 241
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef005c65ce93c29409dd5bbf5f312ca3
+      internalID: -2127968737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_28
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1282
+        width: 231
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05787d512121c724d8be1b119a25bbff
+      internalID: 2044092290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_30
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1284
+        width: 230
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da937d721ad8d47ae09e2edaca124e
+      internalID: 235187172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_31
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1297
+        width: 229
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272fc98631a39f4aa52d1d7f6b73c4f
+      internalID: -1804138684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_33
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1290
+        width: 235
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd3ed6a8b76bff478e55fbb210ee8b3
+      internalID: -2046903539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_35
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 1324
+        width: 232
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b2be11cd4c9344697d60c2ce148de7
+      internalID: 1752073563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_37
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 1318
+        width: 240
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3341005dc5aca40bcdae45ae9ea7a0
+      internalID: -1353570369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_39
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 1363
+        width: 251
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029bf5762b062754b8c0044a3dc41b38
+      internalID: -291673154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 285
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1de6063ab5ef47bff37695033113a
+      internalID: 633561879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 625
+        width: 306
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af38c4e2c692af746a50af8ff1d6ef28
+      internalID: 329572479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_48
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 631
+        width: 305
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ee389346564a40b5213c1f0b339b7
+      internalID: -1790776343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_50
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 623
+        width: 300
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c9fa0a82e44f448889ab171d499286
+      internalID: -1013380021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_52
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 631
+        width: 296
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49fdb6677ae48b4fbc0bafe02b3ea9d
+      internalID: -2048828374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_53
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 617
+        width: 291
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c979e9c1594d4d902df5ed8bc9499
+      internalID: -1450195199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_54
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 629
+        width: 311
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c4d9e36d0e4f42883a93154f1e265
+      internalID: 1313875959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_56
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 652
+        width: 314
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80140339389e24a41a9cf52fac66fb5b
+      internalID: 1860220604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_58
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 648
+        width: 307
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e799c3968a2e7814e986432f9bef447e
+      internalID: -1863622031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_60
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 691
+        width: 292
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff13d3aa508b14c97bfad1d0fd0c01
+      internalID: -300882064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 298
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9630d1ade00e8f34c866e14b8e866da7
+      internalID: 632470431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_66
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 5
+        width: 297
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6936a6d74f3ab942a500421f6a22ffd
+      internalID: -1079421871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_67
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 9
+        width: 322
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b9cd14dab1d3249be379c817f2552b
+      internalID: -577933276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 304
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b05f1c71b51e46af784b7d12103c0
+      internalID: 1889640989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_69
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 305
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb75fd81d8e2546b3074a7a174b392
+      internalID: 1858252299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_70
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 284
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef02436d3f45cb41be40d89777ea749
+      internalID: 1145239642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_72
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 0
+        width: 309
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d4f4d409f55d54291a11499c2ce815
+      internalID: 18525650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_74
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 35
+        width: 313
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee5ffd03ab0b47499e475f5d3ca1468
+      internalID: 2097617602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_76
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 33
+        width: 305
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd4a13e4ec383498a800d6a4fa7895
+      internalID: -1631695260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo violeta_78
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 0
+        width: 291
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6175ebb1d6e17904e8cd9618c8f5e896
+      internalID: 254549513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 23dec7c1abe69f440abd66296d925c08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemigo violeta_0: -1940314585
+      Enemigo violeta_1: -2142890254
+      Enemigo violeta_10: 109345872
+      Enemigo violeta_11: 712198679
+      Enemigo violeta_12: -146485562
+      Enemigo violeta_13: -243931858
+      Enemigo violeta_14: 66509060
+      Enemigo violeta_15: 1675550452
+      Enemigo violeta_16: 898332343
+      Enemigo violeta_17: 258584846
+      Enemigo violeta_18: 813238615
+      Enemigo violeta_19: -1921322348
+      Enemigo violeta_2: -203783196
+      Enemigo violeta_20: 792334368
+      Enemigo violeta_21: 884638232
+      Enemigo violeta_22: 685837744
+      Enemigo violeta_23: 1578995635
+      Enemigo violeta_24: 1209078560
+      Enemigo violeta_25: -731889148
+      Enemigo violeta_26: -2127968737
+      Enemigo violeta_27: -372374232
+      Enemigo violeta_28: 2044092290
+      Enemigo violeta_29: 1794035657
+      Enemigo violeta_3: -616708848
+      Enemigo violeta_30: 235187172
+      Enemigo violeta_31: -1804138684
+      Enemigo violeta_32: -1297443059
+      Enemigo violeta_33: -2046903539
+      Enemigo violeta_34: -1920907189
+      Enemigo violeta_35: 1752073563
+      Enemigo violeta_36: 1374222655
+      Enemigo violeta_37: -1353570369
+      Enemigo violeta_38: -263892246
+      Enemigo violeta_39: -291673154
+      Enemigo violeta_4: 1531247143
+      Enemigo violeta_40: 1599388906
+      Enemigo violeta_41: -1038390064
+      Enemigo violeta_42: 1603052757
+      Enemigo violeta_43: 866000969
+      Enemigo violeta_44: 633561879
+      Enemigo violeta_45: 643203592
+      Enemigo violeta_46: 329572479
+      Enemigo violeta_47: -1784451652
+      Enemigo violeta_48: -1790776343
+      Enemigo violeta_49: 1606012941
+      Enemigo violeta_5: -2084081954
+      Enemigo violeta_50: -1013380021
+      Enemigo violeta_51: -1166696475
+      Enemigo violeta_52: -2048828374
+      Enemigo violeta_53: -1450195199
+      Enemigo violeta_54: 1313875959
+      Enemigo violeta_55: -151464528
+      Enemigo violeta_56: 1860220604
+      Enemigo violeta_57: 1148214636
+      Enemigo violeta_58: -1863622031
+      Enemigo violeta_59: -2111321445
+      Enemigo violeta_6: -382048632
+      Enemigo violeta_60: -300882064
+      Enemigo violeta_61: 1778636951
+      Enemigo violeta_62: 910307868
+      Enemigo violeta_63: 632470431
+      Enemigo violeta_64: 1920146432
+      Enemigo violeta_65: -788613585
+      Enemigo violeta_66: -1079421871
+      Enemigo violeta_67: -577933276
+      Enemigo violeta_68: 1889640989
+      Enemigo violeta_69: 1858252299
+      Enemigo violeta_7: -940348464
+      Enemigo violeta_70: 1145239642
+      Enemigo violeta_71: -1381768377
+      Enemigo violeta_72: 18525650
+      Enemigo violeta_73: -2045904872
+      Enemigo violeta_74: 2097617602
+      Enemigo violeta_75: 1346282284
+      Enemigo violeta_76: -1631695260
+      Enemigo violeta_77: -256023888
+      Enemigo violeta_78: 254549513
+      Enemigo violeta_79: -268229740
+      Enemigo violeta_8: -568317033
+      Enemigo violeta_80: 780602702
+      Enemigo violeta_81: 1364366500
+      Enemigo violeta_82: -717301962
+      Enemigo violeta_9: 997955925
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
