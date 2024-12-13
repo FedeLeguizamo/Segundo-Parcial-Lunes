@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy : MonoBehaviour 
 {
     public float speed;
     public float stoppingDistance;
@@ -11,36 +11,30 @@ public class Enemy : MonoBehaviour
 
     public Transform player;
     public GameObject bullet;
-    private IEnemyState currentState; // Estado actual
+    
+    private EnemyStateMachine stateMachine; 
 
     private IShootingStrategy shootingStrategy;
+    private ICloneable<Enemy> cloneableImplementation;
     
+    
+
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
-        SetState(new ChaseState()); // Iniciar en el estado de persecución
-        timeBtwShots = startTimeBtwShots;
+        stateMachine = new EnemyStateMachine(); 
+        stateMachine.SetState(new ChaseState(), this); 
         
+        timeBtwShots = startTimeBtwShots;
         shootingStrategy = new StandardShootingStrategy();
     }
 
     void Update()
     {
+        stateMachine.Update(this);
+        
         // Determinar el estado según la distancia al jugador
         float distance = Vector2.Distance(transform.position, player.position);
-
-        if (distance > stoppingDistance && !(currentState is ChaseState))
-        {
-            SetState(new ChaseState());
-        }
-        else if (distance <= stoppingDistance && distance > retreatDistance && !(currentState is IdleState))
-        {
-            SetState(new IdleState());
-        }
-        else if (distance <= retreatDistance && !(currentState is RetreatState))
-        {
-            SetState(new RetreatState());
-        }
         
         // Cambiar estrategia si el jugador está cerca
         if (distance < 5f)
@@ -51,9 +45,6 @@ public class Enemy : MonoBehaviour
         {
             SetShootingStrategy(new StandardShootingStrategy());
         }
-
-        // Ejecutar lógica del estado actual
-        currentState.UpdateState(this);
         
         if (timeBtwShots <= 0)
         {
@@ -69,18 +60,5 @@ public class Enemy : MonoBehaviour
     public void SetShootingStrategy(IShootingStrategy newStrategy)
     {
         shootingStrategy = newStrategy;
-    }
-
-    public void SetState(IEnemyState newState)
-    {
-        // Salir del estado actual, si existe
-        if (currentState != null)
-        {
-            currentState.ExitState(this);
-        }
-
-        // Cambiar al nuevo estado
-        currentState = newState;
-        currentState.EnterState(this);
     }
 }

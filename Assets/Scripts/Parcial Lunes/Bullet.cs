@@ -27,13 +27,7 @@ Rigidbody2D bulletRB;
         Destroy(this.gameObject, 2);
 
     }
-
-    void FixedUpdate()
-    {
-        
-    }
-
-
+    
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))

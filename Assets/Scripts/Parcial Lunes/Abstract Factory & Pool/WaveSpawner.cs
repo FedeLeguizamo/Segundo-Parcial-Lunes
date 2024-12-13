@@ -23,6 +23,7 @@ public class WaveSpawner : MonoBehaviour
     private Wave currentWave;
     private int currentWaveNumber; //saber en q wave estamos
     private IEnemyFactory enemyFactory;
+    private IEnemyAbstractFactory enemyAbstractFactory;
 
     private bool canSpawn = true;
     private float spawnTime;
@@ -32,7 +33,14 @@ public class WaveSpawner : MonoBehaviour
     {
         currentWaveNumber = 0;
         currentWave = waves[currentWaveNumber];
-        enemyFactory = new BasicEnemyFactory(currentWave.typeOfEnemies);
+        // Configuramos la Abstract Factory con familias de enemigos
+        enemyAbstractFactory = new EnemyAbstractFactory(
+            basicEnemies: currentWave.typeOfEnemies, 
+            advancedEnemies: new GameObject[] { /* Agregar prefabs de enemigos avanzados aquí */ }
+        );
+
+        // Usamos la fábrica básica por defecto
+        enemyFactory = enemyAbstractFactory.CreateBasicEnemyFactory();
     }
 
     private void Update()
@@ -79,7 +87,15 @@ public class WaveSpawner : MonoBehaviour
     {
         currentWaveNumber++;
         currentWave = waves[currentWaveNumber];
-        enemyFactory = new BasicEnemyFactory(currentWave.typeOfEnemies); // Actualizar la fábrica
+        // Cambiamos la fábrica según la ola actual
+        if (currentWaveNumber > 1)
+        {
+            enemyFactory = enemyAbstractFactory.CreateAdvancedEnemyFactory();
+        }
+        else
+        {
+            enemyFactory = enemyAbstractFactory.CreateBasicEnemyFactory();
+        }
         canSpawn = true;
     }
 }
