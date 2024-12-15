@@ -6,29 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1a969dbc-0d3b-4667-a060-ff0fbcfe14f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Segundo-Parcial-Lunes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Segundo-Parcial-Lunes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AudioManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AudioManager.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fede/Bala.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fede/Bala.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Fede/explosion.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Fede/explosion.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Abstract Factory &amp; Pool/AdvanceEnemyFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Abstract Factory &amp; Pool/AdvanceEnemyFactory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Abstract Factory &amp; Pool/WaveSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Abstract Factory &amp; Pool/WaveSpawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Command/GameSetup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Command/GameSetup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Command/MakePlayerInvincibleCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Command/MakePlayerInvincibleCommand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Pool.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Pool/Aim.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Pool/Aim.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Pool/Bullet_Fede.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Pool/Bullet_Fede.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Prototype.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Prototype/IClonable.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Prototype/IClonable.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/State &amp; State Machine/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/State &amp; State Machine/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/State &amp; State Machine/EnemyStateMachine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/State &amp; State Machine/EnemyStateMachine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/State &amp; State Machine/IdleState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/State &amp; State Machine/IdleState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Strategy/RapidFire.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Strategy/RapidFire.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sound.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sound.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Pool, Prototype &amp; Wrapper/Bullet Dardo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Parcial Lunes/Pool, Prototype &amp; Wrapper/Bullet Dardo.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +93,7 @@
       <workItem from="1734036010984" duration="20224000" />
       <workItem from="1734298332508" duration="205000" />
       <workItem from="1734298562497" duration="6463000" />
+      <workItem from="1734306174658" duration="562000" />
     </task>
     <servers />
   </component>

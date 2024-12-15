@@ -8,6 +8,7 @@ public class BulletDardo : MonoBehaviour
     public float speed;
     Rigidbody2D bulletRB;
     private Aim aimReference;
+    public BulletData bulletData;
 
     void Start()
     {
@@ -31,7 +32,7 @@ public class BulletDardo : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            other.gameObject.GetComponent<Health>().dmgTaken += 10;
+            other.gameObject.GetComponent<Health>().dmgTaken += bulletData.damage;
             
             aimReference.ReturnBulletToPool(this);
         }
