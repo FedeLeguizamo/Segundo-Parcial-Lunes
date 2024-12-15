@@ -33,13 +33,12 @@ public class WaveSpawner : MonoBehaviour
     {
         currentWaveNumber = 0;
         currentWave = waves[currentWaveNumber];
-        // Configuramos la Abstract Factory con familias de enemigos
         enemyAbstractFactory = new EnemyAbstractFactory(
             basicEnemies: currentWave.typeOfEnemies, 
-            advancedEnemies: new GameObject[] { /* Agregar prefabs de enemigos avanzados aquí */ }
+            advancedEnemies: new GameObject[] { }
         );
 
-        // Usamos la fábrica básica por defecto
+        
         enemyFactory = enemyAbstractFactory.CreateBasicEnemyFactory();
     }
 
@@ -53,9 +52,9 @@ public class WaveSpawner : MonoBehaviour
         {
 
             waveName.text = waves[currentWaveNumber + 1].waveName;
-            animator.SetTrigger("WaveComplete");     //lo pone en el texto de la prox wave
-            canAnimate = false;       // si se mataron todos los enemigos y no se pueden spawnear mas
-                                      //se cambia a la proxima wave
+            animator.SetTrigger("WaveComplete");     
+            canAnimate = false;      
+                                      
 
         }
         else
@@ -70,7 +69,7 @@ public class WaveSpawner : MonoBehaviour
         if (canSpawn && spawnTime < Time.time)
         {
             Transform randomPoint = spawnPoints[Random.Range(0, spawnPoints.Length)];
-            enemyFactory.CreateEnemy(randomPoint); // Usamos la fábrica
+            enemyFactory.CreateEnemy(randomPoint); 
 
             currentWave.numberOfEnemies--;
             spawnTime = Time.time + currentWave.spawnInterval;
@@ -87,7 +86,6 @@ public class WaveSpawner : MonoBehaviour
     {
         currentWaveNumber++;
         currentWave = waves[currentWaveNumber];
-        // Cambiamos la fábrica según la ola actual
         if (currentWaveNumber > 1)
         {
             enemyFactory = enemyAbstractFactory.CreateAdvancedEnemyFactory();

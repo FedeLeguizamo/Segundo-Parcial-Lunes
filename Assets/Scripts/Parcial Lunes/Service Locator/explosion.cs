@@ -35,7 +35,8 @@ public class explosion : MonoBehaviour
             collrb.AddForce(-(transform.position - collider.transform.position) * power);
             barrilanim.SetBool("trigger", true);
 
-            Object.FindAnyObjectByType<AudioManager>().Play("Explosion");
+            AudioManager audioManager = ServiceLocator.GetService<AudioManager>();
+            audioManager.Play("Explosion");
 
             Destroy(this.gameObject, 1);
         }

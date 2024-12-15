@@ -15,7 +15,7 @@ public class Enemy : MonoBehaviour
     private EnemyStateMachine stateMachine; 
 
     private IShootingStrategy shootingStrategy;
-    private ICloneable<Enemy> cloneableImplementation;
+    
     
     
 
@@ -33,10 +33,10 @@ public class Enemy : MonoBehaviour
     {
         stateMachine.Update(this);
         
-        // Determinar el estado según la distancia al jugador
+        
         float distance = Vector2.Distance(transform.position, player.position);
         
-        // Cambiar estrategia si el jugador está cerca
+        
         if (distance < 5f)
         {
             SetShootingStrategy(new RapidShootingStrategy());

@@ -11,8 +11,7 @@ public class GameSetup : MonoBehaviour
     void Start()
     {
         console = FindObjectOfType<CommandConsole>();
-
-        // Registrar el comando para hacer invencible al jugador
+        
         console.RegisterCommand("make_invincible", new MakePlayerInvincibleCommand());
     }
 }

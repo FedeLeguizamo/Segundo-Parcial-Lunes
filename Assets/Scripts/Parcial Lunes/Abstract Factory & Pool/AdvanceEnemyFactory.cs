@@ -16,7 +16,6 @@ public class AdvancedEnemyFactory : IEnemyFactory
         GameObject randomEnemy = advancedEnemyPrefabs[Random.Range(0, advancedEnemyPrefabs.Length)];
         GameObject enemy = Object.Instantiate(randomEnemy, spawnPoint.position, Quaternion.identity);
         
-        // Aquí podemos agregar características únicas a los enemigos avanzados
         enemy.GetComponent<Enemy>().speed *= 2.0f; // Ejemplo: enemigos avanzados son más rápidos
         return enemy;
     }

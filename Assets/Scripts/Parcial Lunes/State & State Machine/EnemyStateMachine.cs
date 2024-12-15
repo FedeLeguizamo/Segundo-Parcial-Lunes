@@ -10,13 +10,13 @@ public class EnemyStateMachine
 
     public void SetState(IEnemyState newState, Enemy enemy)
     {
-        // Salir del estado actual
+        
         if (currentState != null)
         {
             currentState.ExitState(enemy);
         }
 
-        // Configurar el nuevo estado
+        
         currentState = newState;
         currentState.EnterState(enemy);
     }
@@ -28,7 +28,7 @@ public class EnemyStateMachine
             currentState.UpdateState(enemy);
         }
 
-        // Lógica de transición de estados según la distancia al jugador
+        
         float distance = Vector2.Distance(enemy.transform.position, enemy.player.position);
 
         if (distance > enemy.stoppingDistance && !(currentState is ChaseState))

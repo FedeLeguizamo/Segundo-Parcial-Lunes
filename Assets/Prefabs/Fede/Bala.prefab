@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 8472333658844223891}
   - component: {fileID: 8384296077376609075}
-  - component: {fileID: 3240104676455763013}
   - component: {fileID: 9208729971071174039}
   - component: {fileID: 8323228508647800427}
   - component: {fileID: -5374765689236061169}
+  - component: {fileID: -8340347800423703595}
   m_Layer: 0
   m_Name: Bala
   m_TagString: EnemyAssets
@@ -88,19 +88,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &3240104676455763013
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2439684842537883234}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f8c97a4a9f716c43a13028fe6540e12, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 6
 --- !u!50 &9208729971071174039
 Rigidbody2D:
   serializedVersion: 4
@@ -136,7 +123,6 @@ CapsuleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2439684842537883234}
   m_Enabled: 1
-  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -160,8 +146,7 @@ CapsuleCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
+  m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.108257934}
   m_Size: {x: 1, y: 9.448711}
   m_Direction: 0
@@ -180,3 +165,16 @@ MonoBehaviour:
   dmg: 10
   Target: Player
   Target2: Player
+--- !u!114 &-8340347800423703595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2439684842537883234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1c023041ac83f4996a76287bf27c5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 6

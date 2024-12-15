@@ -10,6 +10,7 @@ public class AudioManager : MonoBehaviour {
     
     void Awake()
     {
+        ServiceLocator.RegisterService<AudioManager>(this);
         foreach (Sound s in sounds)
         {
             s.source = gameObject.AddComponent<AudioSource>();

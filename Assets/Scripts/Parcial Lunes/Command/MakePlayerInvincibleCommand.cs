@@ -8,15 +8,15 @@ using UnityEngine;
 
 public class MakePlayerInvincibleCommand : ICommand
 {
-    private string playerTag = "Player"; // Tag para identificar al jugador
+    private string playerTag = "Player"; 
 
     public void Execute()
     {
-        GameObject player = GameObject.FindGameObjectWithTag(playerTag); // Buscar jugador por tag
+        GameObject player = GameObject.FindGameObjectWithTag(playerTag); 
 
         if (player != null && player.TryGetComponent<Health>(out Health healthComponent))
         {
-            healthComponent.isInvincible = true; // Activar invencibilidad
+            healthComponent.isInvincible = true; 
             Debug.Log($"{player.name} ahora es invencible.");
         }
         else
