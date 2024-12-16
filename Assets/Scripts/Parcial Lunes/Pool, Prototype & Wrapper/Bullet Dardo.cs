@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BulletDardo : MonoBehaviour
+public class BulletDardo : MonoBehaviour, IDardo
 {
     GameObject target;
     public float speed;
@@ -26,6 +26,11 @@ public class BulletDardo : MonoBehaviour
     {
         this.target = target;
         this.aimReference = aim;
+    }
+
+    public void OnHitTarget()
+    {
+        aimReference.ReturnBulletToPool(this);
     }
 
     void OnTriggerEnter2D(Collider2D other)

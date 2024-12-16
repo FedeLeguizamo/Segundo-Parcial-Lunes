@@ -30,6 +30,7 @@ public class Aim : MonoBehaviour
         {
             GameObject bulletObj = bulletPrototype.Clone(); 
             BulletDardo bullet = bulletObj.GetComponent<BulletDardo>();
+            IDardo dardp =  new BulletWrapper(bulletObj.GetComponent<BulletDardo>());
 
             if (bullet != null)
             {
